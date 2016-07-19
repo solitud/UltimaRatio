@@ -1,7 +1,7 @@
 ![](http://www.gezeiten-modular.com/img/gezeiten_logo.png)
 
 #Ultima Ratio - Manual
-*Ultima Ratio* is an intuitive playable Clock Divider, Clock Generator and Dual AR Envelope.
+*Ultima Ratio* is an intuitive playable Clock Divider, Clock Generator and Dual AR Envelope for the Eurorack modular synthesizer format.
 
 You can use it
 
